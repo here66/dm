@@ -1,0 +1,12 @@
+{
+  "port": 10088,
+  "dbstr": "mongodb://localhost:27017/dm_dev",
+  "sms_enable": false,
+  "sms_code": {
+    "accessKeyId": "LTAImtdqTNtyFo5T",
+    "secretAccessKey": "yTXzYEcrgGAKrEbCvpqoqq52bGGW1r",
+    "SignName": "尚层软装",
+    "TemplateCode": "SMS_125015879"
+  },
+  "password_prefix":"2018coming"
+}
